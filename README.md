@@ -6,7 +6,7 @@ Installation
 To use this plugin use the addSbtPlugin command within your project's `plugins.sbt` file:
 
 ```scala
-addSbtPlugin("io.teamscala.sbt" % "sbt-webjars-packager" % "0.1.4")
+addSbtPlugin("io.teamscala.sbt" % "sbt-webjars-packager" % "1.0.0")
 ```
 
 For example with `build.sbt`:
