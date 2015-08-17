@@ -1,4 +1,4 @@
-# A SBT plugin for webjars packaging with external resource [![Build Status](https://travis-ci.org/zenato/sbt-webjars-packager.svg?branch=master)](https://travis-ci.org/zenato/sbt-webjars-packager)
+# An SBT plugin to Webjars packaging with external resources. [![Build Status](https://travis-ci.org/zenato/sbt-webjars-packager.svg?branch=master)](https://travis-ci.org/zenato/sbt-webjars-packager)
 
 Installation
 ------------
